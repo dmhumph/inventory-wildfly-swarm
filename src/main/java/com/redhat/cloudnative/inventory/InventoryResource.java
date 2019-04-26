@@ -11,7 +11,7 @@ import javax.ws.rs.core.MediaType;
 import org.wildfly.swarm.health.Health;
 import org.wildfly.swarm.health.HealthStatus;
 import java.util.Date;
-
+// my comment
 @Path("/")
 @ApplicationScoped
 public class InventoryResource {
